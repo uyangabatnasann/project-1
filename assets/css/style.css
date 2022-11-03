@@ -23,3 +23,28 @@ h1, h2 {
 #logo {
     float: left;
 }
+
+/* navigation links */
+
+#menu, #logo {
+    line-height: 50px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-left: 50px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #fd5901;
+    font-weight: bold;
+}
+
+#menu a:hover {
+    color: #fff5eb;
+}
+.active {
+    color: #fff5eb;
+}
