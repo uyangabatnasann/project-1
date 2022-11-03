@@ -68,9 +68,27 @@ h1, h2 {
 /* about */
 
 #about {
-    height: 500px;
-    padding-top: 100px;
-    padding-right: 100px;
-    padding-left: 100px;
-    padding-bottom: 100px;
+    height: 300px;
+}
+
+#about-heading {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    font-size: 300%;
+}
+
+p {
+    text-align: center;
+    font-size: 120%;
+    line-height: 2rem;
+}
+
+/* upcoming events */
+
+#event-heading {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    font-size: 300%;
 }
