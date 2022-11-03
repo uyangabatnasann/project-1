@@ -92,3 +92,42 @@ p {
     margin-bottom: 40px;
     font-size: 300%;
 }
+
+#events div {
+    color:#fff5eb;
+    background-size: cover;
+    width: 175px;
+    height: 175px;
+    float: left;
+    text-align: right;
+    margin-left: 350px;
+    margin-bottom: 20px;
+    border: 2px solid #fd5901;
+}
+
+#thegrinch {
+    background-image: url('../images/thegrinch.jpg');
+}
+
+#arthurchristmas {
+    background-image: url('../images/arthurchristmas.jpg');
+}
+
+.date {
+    background-color: #fd5901;
+}
+
+.readmore a {
+    text-decoration: none;
+    color:#fff5eb;
+    background-color: #fd5901;
+}
+
+.readmore {
+    margin-top: 125px;
+    margin-right: 5px;
+}
+
+.readmore a:hover {
+    color:#271811;
+}
