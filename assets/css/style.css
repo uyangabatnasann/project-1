@@ -7,5 +7,19 @@
 }
 
 body {
+    font-family: Chivo, sans-serif;
+    color: #271811;
+    background-color: #fff5eb;
+}
+
+/* headings and logo */
+
+h1, h2 {
     font-family: Courier Prime, sans-serif;
+    text-transform: uppercase;
+    color: #fd5901;
+}
+
+#logo {
+    float: left;
 }
